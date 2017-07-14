@@ -1,0 +1,15 @@
+{
+  "name": "give-apple-pay",
+  "version": "0.0.1",
+  "description": "Apple Pay checkout for GiveWP",
+  "main": "index.js",
+  "scripts": {
+    "watch": "rm -rf assets/js/dist && mkdir -p assets/js/dist && babel -w assets/js/src -d assets/js/dist"
+  },
+  "author": "Joe Dooley <hello@developingdesigns.com> (https://www.developingdesigns.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0"
+  }
+}

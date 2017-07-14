@@ -1,0 +1,8 @@
+{
+    "require": {
+        "stripe/stripe-php": "^5.1",
+        "filp/whoops": "^2.1",
+        "maximebf/debugbar": "  ^1.0.0",
+        "tracy/tracy": "^2.4"
+    }
+}
